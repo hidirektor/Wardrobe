@@ -1,0 +1,7 @@
+name: Wardrobe
+main: me.bronzzze.wardrobe.Main
+author: bronzzze
+version: 2.2
+commands:
+  wardrobe:
+    description: Open wardrobe.
