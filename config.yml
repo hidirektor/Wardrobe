@@ -1,0 +1,31 @@
+Chat Wardrobe Prefix: '&5[&dWardrobe&5] '
+# Send message when you open wardrobe? true/false
+Main Menu Message: false
+Message when you open Main Menu: '&5Opening Wardrobe!'
+Message when you select Hat: '&5Hat Selected!'
+
+
+
+# When Player Join true = add a wardrobe chest false = don't add a wardrobe chest.
+On Join: false
+# Which slot in inventory should be set.
+Slot: 8
+# Enchantments on Armour? True/False.
+Enchantments: true
+# Close Inventory when you select armour/hat?
+Inventory Close: true
+# Reset armour when player leave?
+On Quit: true
+Enchantments on Discoarmour: true
+# On which world should command /wardrobe work?
+Worlds:
+- world
+- world_nether
+# When you use command /wardrobe on not enabled worlds
+Message on disabled world: '&4You can''t use this command!'
+# When you use wardrobe chest on not enabled worlds
+Chest Message on disabled world: '&4You can''t use wardrobe chest!'
+
+#20 ticks is 1 second
+#for example 10 is 0.5 Sec
+DiscoArmourSpeed: 10

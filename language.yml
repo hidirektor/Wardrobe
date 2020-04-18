@@ -1,0 +1,451 @@
+#Please report Buggs. I didn't test all:/
+#Same in all Inventorys:
+Back:
+  Name: '&4&lBack'
+  Lore:
+Next:
+  Name: '&9&lNext Page'
+  Lore:
+RemoveParticles:
+  Name: '&4&lRemove Particles'
+  Lore:
+##################################################
+##################################################
+##################################################
+##################################################
+##################################################
+##################################################
+#MainMenu
+
+MainMenuName: '&5&lMain Menu'
+
+ArmourSelector:
+  Name: '&d&lArmour Selector'
+  Lore:
+  - '&d*-*-*-*-*-*-*-*-*-*-*-*-*'
+  - '&dClick to select Armour!'
+  - '&d*-*-*-*-*-*-*-*-*-*-*-*-*'
+HatSelector:
+  Name: '&6&lHat Selector'
+  Lore:
+  - '&6*-*-*-*-*-*-*-*-*-*-*-*'
+  - '&6Click to select Hat!'
+  - '&6*-*-*-*-*-*-*-*-*-*-*-*'
+DiscoArmour:
+  Name: '&b&lDisco Armour'
+  Lore:
+  - '&b*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*'
+  - '&bClick to select Disco Armour!'
+  - '&b*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*'
+ParticleMenu:
+  Name: '&2&lParticle Selector'
+  Lore:
+  - '&2*-*-*-*-*-*-*-*-*-*-*-*-*-*-*'
+  - '&2Click to select Particle!'
+  - '&2*-*-*-*-*-*-*-*-*-*-*-*-*-*-*'
+RemoveItem:
+  Name: '&4&lClear Armour'
+  Lore:
+  - '&4*-*-*-*-*-*-*-*-*-*-*-*-*-*-*'
+  - '&4Click to remove Aromour!'
+  - '&4*-*-*-*-*-*-*-*-*-*-*-*-*-*-*'
+##################################################
+##################################################
+##################################################
+##################################################
+##################################################
+##################################################
+#ArmourSelector
+
+ArmourSelectorMenuName: '&d&lArmour Selector'
+
+
+Yellow:
+  Helmet:
+    Name: '&e&lYellow Helmet'
+    Lore:
+    - '&6Click To Equip!'
+  Chestplate:
+    Name: '&e&lYellow Tunic'
+    Lore:
+    - '&6Click To Equip!'
+  Leggings:
+    Name: '&e&lYellow Leggings'
+    Lore:
+    - '&6Click To Equip!'
+  Boots:
+    Name: '&e&lYellow Boots'
+    Lore:
+    - '&6Click To Equip!'
+
+########################################
+Pink:
+  Helmet:
+    Name: '&d&lPink Helmet'
+    Lore:
+    - '&6Click To Equip!'
+  Chestplate:
+    Name: '&d&lPink Tunic'
+    Lore:
+    - '&6Click To Equip!'
+  Leggings:
+    Name: '&d&lPink Leggings'
+    Lore:
+    - '&6Click To Equip!'
+  Boots:
+    Name: '&d&lPink Boots'
+    Lore:
+    - '&6Click To Equip!'
+########################################
+Red:
+  Helmet:
+    Name: '&4&lRed Helmet'
+    Lore:
+    - '&6Click To Equip!'
+  Chestplate:
+    Name: '&4&lRed Tunic'
+    Lore:
+    - '&6Click To Equip!'
+  Leggings:
+    Name: '&4&lRed Leggings'
+    Lore:
+    - '&6Click To Equip!'
+  Boots:
+    Name: '&4&lRed Boots'
+    Lore:
+    - '&6Click To Equip!'
+########################################
+Blue:
+  Helmet:
+    Name: '&1&lBlue Helmet'
+    Lore:
+    - '&6Click To Equip!'
+  Chestplate:
+    Name: '&1&lBlue Tunic'
+    Lore:
+    - '&6Click To Equip!'
+  Leggings:
+    Name: '&1&lBlue Leggings'
+    Lore:
+    - '&6Click To Equip!'
+  Boots:
+    Name: '&1&lBlue Boots'
+    Lore:
+    - '&6Click To Equip!'
+########################################
+Green:
+  Helmet:
+    Name: '&2&lGreen Helmet'
+    Lore:
+    - '&6Click To Equip!'
+  Chestplate:
+    Name: '&2&lGreen Tunic'
+    Lore:
+    - '&6Click To Equip!'
+  Leggings:
+    Name: '&2&lGreen Leggings'
+    Lore:
+    - '&6Click To Equip!'
+  Boots:
+    Name: '&2&lGreen Boots'
+    Lore:
+    - '&6Click To Equip!'
+########################################
+Gray:
+  Helmet:
+    Name: '&7&lGray Helmet'
+    Lore:
+    - '&6Click To Equip!'
+  Chestplate:
+    Name: '&7&lGray Tunic'
+    Lore:
+    - '&6Click To Equip!'
+  Leggings:
+    Name: '&7&lGray Leggings'
+    Lore:
+    - '&6Click To Equip!'
+  Boots:
+    Name: '&7&lGray Boots'
+    Lore:
+    - '&6Click To Equip!'
+########################################
+Black:
+  Helmet:
+    Name: '&8&lBlack Helmet'
+    Lore:
+    - '&6Click To Equip!'
+  Chestplate:
+    Name: '&8&lBlack Tunic'
+    Lore:
+    - '&6Click To Equip!'
+  Leggings:
+    Name: '&8&lBlack Leggings'
+    Lore:
+    - '&6Click To Equip!'
+  Boots:
+    Name: '&8&lBlack Boots'
+    Lore:
+    - '&6Click To Equip!'
+########################################
+Diamond:
+  Helmet:
+    Name: '&b&lDiamond Helmet'
+    Lore:
+    - '&6Click To Equip!'
+  Chestplate:
+    Name: '&b&lDiamond Tunic'
+    Lore:
+    - '&6Click To Equip!'
+  Leggings:
+    Name: '&b&lDiamond Leggings'
+    Lore:
+    - '&6Click To Equip!'
+  Boots:
+    Name: '&b&lDiamond Boots'
+    Lore:
+    - '&6Click To Equip!'
+########################################
+Iron:
+  Helmet:
+    Name: '&7&lIron Helmet'
+    Lore:
+    - '&6Click To Equip!'
+  Chestplate:
+    Name: '&7&lIron Tunic'
+    Lore:
+    - '&6Click To Equip!'
+  Leggings:
+    Name: '&7&lIron Leggings'
+    Lore:
+    - '&6Click To Equip!'
+  Boots:
+    Name: '&7&lIron Boots'
+    Lore:
+    - '&6Click To Equip!'
+########################################
+Gold:
+  Helmet:
+    Name: '&6&lGold Helmet'
+    Lore:
+    - '&6Click To Equip!'
+  Chestplate:
+    Name: '&6&lGold Tunic'
+    Lore:
+    - '&6Click To Equip!'
+  Leggings:
+    Name: '&6&lGold Leggings'
+    Lore:
+    - '&6Click To Equip!'
+  Boots:
+    Name: '&6&lGold Boots'
+    Lore:
+    - '&6Click To Equip!'
+########################################
+Chainmail:
+  Helmet:
+    Name: '&d&lChainmail Helmet'
+    Lore:
+    - '&6Click To Equip!'
+  Chestplate:
+    Name: '&d&lChainmail Tunic'
+    Lore:
+    - '&6Click To Equip!'
+  Leggings:
+    Name: '&d&lChainmail Leggings'
+    Lore:
+    - '&6Click To Equip!'
+  Boots:
+    Name: '&d&lChainmail Boots'
+    Lore:
+    - '&6Click To Equip!'
+########################################
+Leather:
+  Helmet:
+    Name: '&4&lLeather Helmet'
+    Lore:
+    - '&6Click To Equip!'
+  Chestplate:
+    Name: '&4&lLeather Tunic'
+    Lore:
+    - '&6Click To Equip!'
+  Leggings:
+    Name: '&4&lLeather Leggings'
+    Lore:
+    - '&6Click To Equip!'
+  Boots:
+    Name: '&4&lLeather Boots'
+    Lore:
+    - '&6Click To Equip!'
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+#HatSelector
+
+HatSelectorMenuName: '&b&lHat Selector'
+
+
+ENCHANTMENT_TABLE:
+  Name: ''
+  Lore:
+  - '&6Click To Equip!'
+###############################
+MOB_SPAWNER:
+  Name: ''
+  Lore:
+  - '&6Click To Equip!'
+###############################
+BRICK_STAIRS:
+  Name: ''
+  Lore:
+  - '&6Click To Equip!'
+###############################
+CACTUS:
+  Name: ''
+  Lore:
+  - '&6Click To Equip!'
+###############################
+STAINED_GLASS:
+  Name: ''
+  Lore:
+  - '&6Click To Equip!'
+###############################
+BEACON:
+  Name: ''
+  Lore:
+  - '&6Click To Equip!'
+###############################
+PUMPKIN:
+  Name: ''
+  Lore:
+  - '&6Click To Equip!'
+###############################
+LEAVES:
+  Name: ''
+  Lore:
+  - '&6Click To Equip!'
+###############################
+ICE:
+  Name: ''
+  Lore:
+  - '&6Click To Equip!'
+###############################
+ENDER_CHEST:
+  Name: ''
+  Lore:
+  - '&6Click To Equip!'
+###############################
+BEDROCK:
+  Name: ''
+  Lore:
+  - '&6Click To Equip!'
+###############################
+DIAMOND_BLOCK:
+  Name: ''
+  Lore:
+  - '&6Click To Equip!'
+###############################
+PACKED_ICE:
+  Name: ''
+  Lore:
+  - '&6Click To Equip!'
+###############################
+TNT:
+  Name: ''
+  Lore:
+  - '&6Click To Equip!'
+###############################
+CHEST:
+  Name: ''
+  Lore:
+  - '&6Click To Equip!'
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+#RemoveMenu
+
+RemoveMenuName: '&4&lRemove Menu'
+
+Remove:
+  Helmet:
+    Name: '&4&lRemove Helmet'
+    Lore:
+##############################
+  Chestplate:
+    Name: '&4&lRemove Chestplate'
+    Lore:
+##############################
+  Leggings:
+    Name: '&4&lRemove Leggings'
+    Lore:
+##############################
+  Boots:
+    Name: '&4&lRemove Boots'
+    Lore:
+##############################
+  ALL:
+    Name: '&4&lRemove ALL'
+    Lore:
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+###########################################################
+#ParticleMenu
+
+ParticleMenuName: '&7&lParticle Selector'
+
+Note Particle: 
+  Name: '&5&lNote Particle'
+  Lore:
+#####################################
+Redstone Particle: 
+  Name: '&c&lRedstone Particle'
+  Lore:
+#####################################
+Water Particle: 
+  Name: '&1&lWater Particle'
+  Lore:
+#####################################
+AngryVillager Particle: 
+  Name: '&4&lAngry Villager Particle'
+  Lore:
+#####################################
+Spell Particle: 
+  Name: '&d&lSpell Particle'
+  Lore:
+#####################################
+Heart Particle: 
+  Name: '&4&lHeart Particle'
+  Lore:
+#####################################
+Star Particle:
+  Name: '&f&lStar Particle'
+  Lore:
+#####################################
+Snowball Particle: 
+  Name: '&b&lSnowball Particle'
+  Lore:
+#####################################
+HappyVilliger Particle: 
+  Name: '&a&lHappy Particle'
+  Lore:
+#####################################
+Enchantment Particle:
+  Name: '&7&lEnchantment Particle'
+  Lore:
+#####################################
+Twister Particle:
+  Name: '&2&lTwister Particle'
+  Lore:
+#####################################
+Magic Particle:
+  Name: '&5&lMagic Particle'
+  Lore:
+#####################################
